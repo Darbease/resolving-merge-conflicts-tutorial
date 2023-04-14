@@ -1,3 +1,5 @@
-# References
 
-* octocat 1 😈
+Keys click and lines run,
+Syntax error, debug time,
+Code creates anew.
+
